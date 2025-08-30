@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding Java Language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ardiandarren6@gmail.com
 
 <!---
 RarestD/RarestD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
