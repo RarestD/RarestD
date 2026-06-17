@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RarestD
+- 👋 Hi, I’m @RarestD (Darren)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding Java Language
 - 💞️ I’m looking to collaborate on ...
